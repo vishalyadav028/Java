@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class codehelp {
       public static void main(String[]args){
             /*System.out.println("hello duniya");*/
@@ -46,12 +48,63 @@ public class codehelp {
 
 
 // ARITHMETIC OPERATOR
-int num1 =5;
-int num2 =10;
-System.out.println(num1+num2);
+// int num1 =5;
+// int num2 =10;
+// System.out.println(num1+num2);
+// System.out.println(num1-num2);
+// System.out.println(num1*num2);
+// System.out.println(num1/num2);
+// System.out.println(num1%num2);
 
 
-        
+
+// RELATIONAL OPR
+// int a=10;
+// int b=20;
+// System.out.println(a<b);
+// System.out.println(a>b);
+// System.out.println(a>=b);
+// System.out.println(a<=b);
+// System.out.println(a==b);
+// System.out.println(a!=b);
+
+
+
+// ASSSIGNMENT OPR
+// Scanner sc=new Scanner(System.in);
+// System.out.println("enter your age: ");
+// int age=sc.nextInt();
+// System.out.println(age);
+
+
+
+// declare
+// int age;
+// definition
+// int age =25;
+// System.out.println(age);
+
+
+
+// declare
+// int []age={22,44,23,11,28};
+// System.out.println(age[4]);
+// System.out.println(age.length);
+
+
+// ALLOCATION
+// ALLOCATION
+int marks[]={10,12,23,45,66};
+System.out.println(marks[1]);
+
+for(int idx=0; idx<=n-1; idx++){
+      System.out.println(marks[n]);
+}
+
+
+
+
+
 
 
       }
